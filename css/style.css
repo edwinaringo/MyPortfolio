@@ -216,6 +216,15 @@ header .navbar ul li a:hover{
   padding: 1rem;
 }
 
+.about p{
+  font-size: 2rem;
+  color: #eee;
+  padding: 1rem;
+}
+
+.about p span{
+  color: var(--yellow);
+}
 
 .about .row{
   display: flex;
